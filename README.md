@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Grégory</h1>
 <h3 align="center">A web and mobile developer from France</h3>
 
-- 👨‍💻 I’m currently working on [Carte du Patrimoine](https://carte-du-patrimoine.gregoryalary.dev)
-
-- 🔭 All of my projects are available at [https://gregoryalary.dev](https://gregoryalary.dev)
-
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -22,3 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
+
+
+- 👨‍💻 I’m currently working on [Carte du Patrimoine](https://carte-du-patrimoine.gregoryalary.dev) - a mobile application to discover french historical monuments
+- 🔭 All of my projects are available at [gregoryalary.dev](https://gregoryalary.dev)
